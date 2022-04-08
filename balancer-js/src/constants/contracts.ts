@@ -1,0 +1,1 @@
+export const balancerVault = '0xb8f34FA65beF9c361eb52d95a930fa3548B3FbA3';
